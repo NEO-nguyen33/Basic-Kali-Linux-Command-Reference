@@ -1,0 +1,3 @@
+apt install PACKAGE          # Install a new package
+apt remove PACKAGE           # Remove an installed package
+dpkg -i package-name.deb     # Install a .deb file manually
