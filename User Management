@@ -1,3 +1,20 @@
 whoami        # Display the current username
 adduser NAME  # Create a new user
 passwd        # Change user password
+
+---
+```markdown
+# Network Commands
+
+Useful network-related commands for diagnostics and scanning.
+
+---
+
+## 🔍 Network Info
+
+```bash
+ip a                 # Show network interfaces and IP addresses
+ifconfig             # Display network configuration (older tool)
+ping HOST            # Check connectivity
+traceroute HOST      # Display the route to a host
+netstat -tuln        # Show listening ports and services
