@@ -13,11 +13,11 @@ Basic commands for managing files, directories, and users in Kali Linux.
 ## File & Directory Management
 
 ```bash
-ls            # List files and folders
-cd            # Change directory
-pwd           # Print current directory
-mkdir NAME    # Create a new directory
-rm -r NAME    # Remove directory and contents
-cp A B        # Copy file or folder from A to B
-mv A B        # Move or rename from A to B
-touch NAME    # Create an empty file
+````ls            # List files and folders
+````cd            # Change directory
+````pwd           # Print current directory
+````mkdir NAME    # Create a new directory
+````rm -r NAME    # Remove directory and contents
+````cp A B        # Copy file or folder from A to B
+````mv A B        # Move or rename from A to B
+````touch NAME    # Create an empty file
