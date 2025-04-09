@@ -11,6 +11,6 @@ File Structure
 
  Quick Start
 
-bash
+```bash
 git clone https://github.com/YOUR-USERNAME/kali-linux-basic-commands.git
 cd kali-linux-basic-commands
