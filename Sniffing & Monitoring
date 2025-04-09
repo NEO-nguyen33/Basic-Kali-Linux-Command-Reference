@@ -1,0 +1,2 @@
+wireshark                   # GUI-based packet sniffer
+tcpdump -i eth0             # CLI packet capture on eth0
