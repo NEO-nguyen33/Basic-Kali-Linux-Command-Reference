@@ -10,7 +10,7 @@ Useful network-related commands for diagnostics and scanning.
 
 ---
 
-## 🔍 Network Info
+## Network Info
 
 ```bash
 ip a                 # Show network interfaces and IP addresses
