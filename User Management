@@ -1,0 +1,3 @@
+whoami        # Display the current username
+adduser NAME  # Create a new user
+passwd        # Change user password
