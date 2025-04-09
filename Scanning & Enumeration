@@ -1,0 +1,17 @@
+
+nmap TARGET          # Scan target for open ports/services
+whois DOMAIN         # Retrieve domain information
+dnsenum DOMAIN       # DNS enumeration
+---
+```markdown
+# Package Management Commands
+
+Commands for installing, removing, and managing software on Kali Linux.
+
+---
+
+## Update & Upgrade
+
+```bash
+apt update           # Update package list
+apt upgrade          # Upgrade all installed packages
