@@ -1,0 +1,20 @@
+apt-cache search PACKAGE     # Search available packages
+apt show PACKAGE             # Show package info
+
+---
+
+## File: `commands/kali-tools.md`
+
+```markdown
+# Popular Kali Linux Tools
+
+Examples of how to use key tools pre-installed in Kali Linux.
+
+---
+
+## Reconnaissance
+
+```bash
+nmap -sV TARGET             # Service/version detection
+whois DOMAIN                # Whois lookup
+dnsenum DOMAIN              # Enumerate DNS records
